@@ -15,6 +15,6 @@
 - **Git**: GitHub, GitLab  
 
 ## 📫 Контакты  
-- Telegram: [@Golubchikov_Kirill](https://t.me/Golubchikov_Kirill)  
+- Telegram: [@Golubchikov_Kirill](https://t.me/Kirill_Golubchikov)  
 - Email: iam@kgolubchikov.ru  
 
