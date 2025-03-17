@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! 👋 Я Python-разработчик  
+🚀 Backend Developer | Python | Django | FastAPI | PostgreSQL  
 
-<!--
-**GolubchikovKirill/GolubchikovKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне  
+- 🏗 Изучаю Django, FastAPI, SQLAlchemy, Go  
+- 🤖 Разрабатываю Telegram-ботов на aiogram и Telebot  
+- 📚 Читаю техническую литературу (Чистый код, Грокаем алгоритмы)  
+- 🎯 Цель: стать востребованным специалистом в области Python(GO)-разработки
 
-Here are some ideas to get you started:
+## 💻 Навыки  
+- **Языки**: Python, SQL, Go (начинаю изучение)  
+- **Фреймворки**: Django, FastAPI, SQLAlchemy  
+- **БД**: PostgreSQL  
+- **Боты**: aiogram, Telebot  
+- **Git**: GitHub, GitLab  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Контакты  
+- Telegram: [@Golubchikov_Kirill](https://t.me/Golubchikov_Kirill)  
+- Email: iam@kgolubchikov.ru  
+
