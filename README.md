@@ -1,5 +1,5 @@
 # Привет! 👋 Я Python-разработчик  
-🚀 Backend Developer | Python | Go | Django | FastAPI | PostgreSQL
+## 🚀 ***Backend Developer | Python | Go | Django | FastAPI | PostgreSQL***
 
 ## Обо мне  
 - **Активно изучаю** в Django, FastAPI, SQLAlchemy, Go  
