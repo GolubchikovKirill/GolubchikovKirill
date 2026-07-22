@@ -1,18 +1,32 @@
-## 🚀 ***Backend Developer | Python | Go | Django | FastAPI | PostgreSQL***
+# Kirill Golubchikov
 
-## Обо мне  
-- **Активно изучаю** Django, FastAPI, SQLAlchemy, Go  
-- **Разрабатываю** Telegram-ботов на aiogram и Telebot  
-- **Постоянно развиваюсь**, читаю техническую литературу (например, Чистый код, Грокаем алгоритмы)
-- **Цель:** стать востребованным специалистом в области **Python/GO** - разработки
+Backend engineer focused on production web services and internal platforms.
 
-Активо веду веду фриланс деятельность, пишу API/backend в основном на FastAPI, акцент на веб-разработке.
+I build APIs, background jobs, payment workflows, Telegram integrations and infrastructure tools. I care about clear domain boundaries, predictable deployments, observability and tests that reflect real behaviour.
 
-## 💻 Навыки  
-- **Языки**: ```Python, SQL, Go (начальный уровень)```
-- **Фреймворки**: ```Django, FastAPI, SQLAlchemy(SQLModel), AIOgram, telebot```
-- **БД**: ```PostgreSQL```
+## Core stack
 
-## 📫 Контакты  
-- **Telegram:** [@golubchikovv](https://t.me/golubchikovv)
-- **Email:** iam@kgolubchikov.ru
+- **Backend:** Python, FastAPI, Django, SQLAlchemy, Pydantic
+- **Data and messaging:** PostgreSQL, Redis, Celery
+- **Infrastructure:** Docker, Nginx, Linux, GitHub Actions
+- **Observability:** Prometheus, Grafana, structured logging
+- **Frontend when needed:** React, TypeScript
+
+## Selected work
+
+### [NuggetsLab Private](https://nuggetslab.ru)
+
+A production subscription service built around AmneziaWG. It includes payment processing, automated access provisioning and revocation, a personal account, a Telegram bot and Mini App, multi-node operations, monitoring and administrative tools.
+
+### [InfraScope](https://github.com/GolubchikovKirill/InfraScope)
+
+An infrastructure monitoring and operations platform for distributed retail equipment. FastAPI and React application with PostgreSQL, Redis, background workers, network discovery, Prometheus, Grafana and distributed tracing.
+
+### [AI Knowledge Base](https://github.com/GolubchikovKirill/AI-Knowledge-Base)
+
+A compact document ingestion and retrieval service: uploads, text extraction, chunking, contextual search and AI-assisted answers.
+
+## Contact
+
+- Telegram: [@golubchikovv](https://t.me/golubchikovv)
+- Email: [iam@kgolubchikov.ru](mailto:iam@kgolubchikov.ru)
