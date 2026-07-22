@@ -14,5 +14,5 @@
 - **БД**: ```PostgreSQL```
 
 ## 📫 Контакты  
-- **Telegram:** [@Golubchikov_Kirill](https://t.me/golubchikovv  
+- **Telegram:** [@golubchikovv](https://t.me/golubchikovv  
 - **Email:** iam@kgolubchikov.ru
