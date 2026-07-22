@@ -22,10 +22,6 @@ A production subscription service built around AmneziaWG. It includes payment pr
 
 An infrastructure monitoring and operations platform for distributed retail equipment. FastAPI and React application with PostgreSQL, Redis, background workers, network discovery, Prometheus, Grafana and distributed tracing.
 
-### [AI Knowledge Base](https://github.com/GolubchikovKirill/AI-Knowledge-Base)
-
-A compact document ingestion and retrieval service: uploads, text extraction, chunking, contextual search and AI-assisted answers.
-
 ## Contact
 
 - Telegram: [@golubchikovv](https://t.me/golubchikovv)
