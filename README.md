@@ -22,6 +22,10 @@ A production subscription service built around AmneziaWG. It includes payment pr
 
 An infrastructure monitoring and operations platform for distributed retail equipment. FastAPI and React application with PostgreSQL, Redis, background workers, network discovery, Prometheus, Grafana and distributed tracing.
 
+## Continuing education
+
+- Netology, *React: The Leading Library for Modern Frontend Development*, 2026 — [certificate](certificates/netology-react-2026.pdf)
+
 ## Contact
 
 - Telegram: [@golubchikovv](https://t.me/golubchikovv)
